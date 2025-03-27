@@ -1,0 +1,3 @@
+# StarrSeq Pipeline
+
+This repository contains a modular and reproducible pipeline...
